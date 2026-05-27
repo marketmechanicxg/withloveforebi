@@ -14,8 +14,8 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'Sampai Jadi Debu',
-    artist:    'Banda Neira',
+    title:     'Hold Me Tight',
+    artist:    'Skyline',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
     startTime: 0,       // seconds — where playback begins
